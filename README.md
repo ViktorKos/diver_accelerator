@@ -9,10 +9,10 @@
 
 <h1>Portal for scubadivers</h1>
 <h2>Project description</h2>
-<p>The scuba diving portal of is designed to record dives and certifications, record their centers and spots, convenient for users to choose a dive site, travel and control access to depth and equipment, as well as upgrade when buying cert options.<p/>
+<p>The scuba diving portal of is designed to record dives and certifications, record dive-centers and spots, convenient for users to choose a dive site, travel and control access to depth and equipment, as well as upgrade when buying cert options.<p/>
 <img width="302" alt="diver_icon" src="https://user-images.githubusercontent.com/22616289/216146291-b5c39e13-9001-4e3d-8cf7-76d03d3001b0.png">
 <h2>Опис проекту</h2>
-<p>Портал підводного плавання призначений для запису занурень і сертифікацій, запису їх центрів і місць, зручного для користувачів у виборі місця занурення, подорожі та контролю доступу до глибини та обладнання, а також оновлення при покупці сертифікаційних опцій.</p>
+<p>Портал підводного плавання призначений для запису занурень і сертифікацій, запису дайв-центрів і місць, зручного для користувачів у виборі занурення, подорожі та контролю доступу до глибини та обладнання, а також оновлення при покупці сертифікаційних опцій.</p>
 
 <h2>Розподілення ролей в проекті</h2>
 <p>R.A.C.I. matrix. Description</p>
