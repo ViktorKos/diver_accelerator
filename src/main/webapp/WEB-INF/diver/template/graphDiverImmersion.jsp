@@ -25,12 +25,12 @@
         },
         </c:forEach>
 
-        <c:forEach var="immersion" items="${immersionList}" varStatus="i">
+        <c:forEach var="test" items="${testList}" varStatus="i">
         {
-            id: "${immersion.max_deep}",
+            id: "${test.id}",
             group: 2,
-            label: "${immersion.name}",
-            level: 3
+            label: "${test.testsType.name}",
+            level: 2
         },
         </c:forEach>
     ]
@@ -40,16 +40,6 @@
         {
             target: "diver",
             source: "${visit.diverPro.specialization.id}",
-            strength: 0.2,
-            value: 1
-        },
-        </c:forEach>
-
-
-        <c:forEach var="visit" items="${visitList}" varStatus="i">
-        {
-            target: "${visit.diverPro.specialization.id}",
-            source: "${visit.immersion.location}",
             strength: 0.2,
             value: 1
         },
@@ -79,7 +69,7 @@
         }
         let color = 'gray';
         if (node.level === 1)
-            color = '#9b3963';
+            color = '#85aad4';
         if (node.level === 0)
             color = '#D2C1C1';
 

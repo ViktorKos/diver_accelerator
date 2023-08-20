@@ -182,7 +182,7 @@ input[readonly] {
 
 /*nav*/
 header {
-    background-color: rgb(210, 193, 193);
+    background-color: rgb(255, 255, 255);
 }
 
 .logo {
@@ -204,7 +204,7 @@ header {
 }
 
 .nav-item a:after {
-    background-color: #ffffff;
+    background-color: #646060;
     display: block;
     content: "";
     height: 3px;

@@ -19,7 +19,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link link-custom" href="/diver/symptoms/1" tabindex="-1" aria-disabled="true">
+                            <a class="nav-link link-custom active" href="/diver/symptoms/1" aria-current="page">
                                 Comments
                             </a>
                         </li>
