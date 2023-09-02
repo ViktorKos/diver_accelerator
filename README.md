@@ -28,6 +28,8 @@
 <p>DB diagram.</p>
 https://app.diagrams.net/#G17-0BTpRCPL7h5sn8ekdcct1P8Qam71My
 <img width="1426" alt="DB diagram DiverAcc" src="https://user-images.githubusercontent.com/22616289/216084005-63bffd22-56ff-4dd8-99b4-bece88e110f2.png">
+Class Diagram
+![java1](https://github.com/ViktorKos/diver_accelerator/assets/22616289/6cfa3fe1-4696-4a76-81f1-67748df59c46)
 
 </body>
 </html>
